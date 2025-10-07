@@ -58,7 +58,7 @@ udp_ctrl_io/
 
 1. **Clonar el repositorio:**
 ```bash
-git clone https://github.com/tu-usuario/udp_ctrl_io.git
+git clone https://github.com/oirampro/udp_ctrl_io.git
 cd udp_ctrl_io
 ```
 
