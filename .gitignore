@@ -1,0 +1,32 @@
+# Archivos de compilación
+/build/
+*.bin
+*.elf
+*.map
+*.hex
+
+# Configuraciones locales
+sdkconfig
+sdkconfig.old
+sdkconfig.defaults
+
+# Archivos temporales de IDE
+.vscode/
+.idea/
+*.swp
+
+# Archivos generados por CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+install_manifest.txt
+Makefile
+
+# Logs y backups
+*.log
+*.bak
+*.tmp
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
